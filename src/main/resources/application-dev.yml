@@ -19,4 +19,4 @@ application:
   http:
     authentication:
       header-name: X-API-KEY
-      api-key: riv2698fHCNIGi2mSRsSS5kbBm2cunh2N35I5wxnR27X8Fi7peOKYrUXHspTMdjp
+      api-key: 6fbe2584f591ae1c79c52ac09d557f664a5b230f7ea2ba854b3ed4530fb81d42
